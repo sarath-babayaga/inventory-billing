@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    background-color:orange;
+    height: 50px;
+    align-items: center;
+}
+
+.list-nav {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.list-nav .billing {
+    font-size: 25px;
+    font-weight: bold;
+    color: #222;
+}

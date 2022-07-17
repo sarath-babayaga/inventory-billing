@@ -1,0 +1,48 @@
+.dashboard-content {
+    background-color: aquamarine;
+    margin-left: 250px;;
+    height:94.6vh;
+    /* margin-top: -21px; */
+    position: absolute;
+    width: 87%;
+}
+
+.dashboard-content h1 {
+   text-align: center;
+   margin-top: -200px;;
+}
+
+/* .card1 {
+    width: 350px;
+    height: 500px;
+    background-color: red;
+}
+
+.card2 {
+    width: 350px;
+    height: 500px;
+    background-color: royalblue;
+}
+
+.card3 {
+    width: 350px;
+    height: 500px;
+    background-color: yellow;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 150px;;
+    margin-right: 150px;
+} */
+
+/* .long-card {
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: rgb(233, 104, 222);
+    width: 1370px;
+    height:200px;
+    margin-top: 50px;
+} */

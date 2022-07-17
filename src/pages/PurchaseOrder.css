@@ -1,0 +1,12 @@
+.purchase-order-content {
+    background-color: aquamarine;
+    margin-left: 250px;;
+    height:94.6vh;
+    /* margin-top: -21px; */
+    position: absolute;
+    width: 87%;
+}
+
+.purchase-order-content h1 {
+   text-align: center;
+}

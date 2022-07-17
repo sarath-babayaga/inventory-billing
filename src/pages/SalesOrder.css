@@ -1,0 +1,11 @@
+.sales-order-content {
+    background-color: aquamarine;
+    margin-left: 250px;;
+    height:94.6vh;
+    position: absolute;
+    width: 87%;
+}
+
+.sales-order-content h1 {
+   text-align: center;
+}

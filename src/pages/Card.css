@@ -1,0 +1,25 @@
+.card1 {
+    width: 350px;
+    height: 500px;
+    background-color: red;
+}
+
+.card2 {
+    width: 350px;
+    height: 500px;
+    background-color: royalblue;
+}
+
+.card3 {
+    width: 350px;
+    height: 500px;
+    background-color: yellow;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 150px;;
+    margin-right: 150px;
+}
